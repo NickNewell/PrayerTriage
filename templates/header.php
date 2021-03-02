@@ -15,9 +15,9 @@
 
 
 <body>
-  <nav>
+  <nav class="header">
     <div>
-      <a href="../index.php">
+      <a href="../index.php" style="font-size: 50px">
       Prayer Triage
       </a>
       <div>

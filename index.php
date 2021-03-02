@@ -6,7 +6,7 @@
 ?>
 
     <header>
-      <div>
+      <div class="content">
             <h1>Main Page!</h1>
       </div>
     </header>
