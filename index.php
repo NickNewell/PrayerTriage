@@ -5,9 +5,9 @@
   include $_SERVER['DOCUMENT_ROOT']."/templates/header.php";
 ?>
 
-    <header class="masthead bg-primary text-center">
-      <div class="container">
-            <h1 class="text-uppercase mb-0">Main Page!</h1>
+    <header>
+      <div>
+            <h1>Main Page!</h1>
       </div>
     </header>
 
